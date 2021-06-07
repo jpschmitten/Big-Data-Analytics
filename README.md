@@ -1,1 +1,1 @@
-# wallstreetbets-Sentiment-Analysis-Trading-Strategy
+# r/wallstreetbets Sentiment Analysis Trading Strategy
